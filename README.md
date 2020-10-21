@@ -12,4 +12,4 @@
 
 -- https://BananoDOS.cc
 
-![BananoDOS](https://i.imgur.com/TZiAeh6.png)
+![BananoDOS](https://i.imgur.com/aUWUe5j.gif)
